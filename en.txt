@@ -1,0 +1,139 @@
+Your privacy is important to us.
+
+airjrush is dedicated to protecting the privacy of our users (“users” or “you”). This Privacy Policy (the “Policy”) is meant to explain our practices regarding how we collect, store, use, manage and protect your user information (including your personal information), as a controller and/or business under applicable data protection laws during your use of the airjrush application, including all its features (the “Services”).
+
+Please note that the scope of this Policy is limited solely to your user information (including your personal information) processed by airjrush when you are using airjrush. In this Policy, “personal information” refers to any information, or combination of information, that can be used to identify, contact or locate a discrete individual to whom the collected information pertains.
+
+Please note that it is mandatory for you to provide certain categories of data (as specified at the time of collection). In the event that you do not provide any, or sufficient, data marked as mandatory, we may not be able to provide you with airjrush app services.
+
+
+Information Provided by You
+
+In order to provide and improve the Services, we will collect and process your personal information and user information in accordance with this Policy. If you do not provide this information, we may be unable to provide you with our products or Services. You should ensure that all personal information and user information submitted to us is complete, accurate, true, and correct. Failure on your part to do so may result in our inability to provide you with all or some of the Services.
+
+Please also note that the airjrush app provided to you contains our service provider’s Application Programming Interfaces (APIs) or Software Development Kits (SDKs), which have tracking tools of such service providers. These third parties may use APIs and SDKs on airjrush to collect, store, use, and manage user information. The third parties may provide airjrush with certain statistical data, which must be based on certain user information, and these third parties decide which kind of user information is needed in order to get the statistical data. They also decide the means of processing user information.
+
+
+Device Information
+
+When you use our Services on your mobile device, we collect information about your device, including, where applicable, its International Mobile Equipment Identity (“IMEI”), Identifier for Advertising (“IDFA”) and Identifier for Vendor (“IDFV”), Integrated Circuit Card Identifier (“ICCID”), Android ID, Media Access Control (“MAC”) address, model and resolution, which will be used by us to calculate the number of devices that use our products and Services, and analyze data on device models and graphics adaptation. airjrush also needs unique count analytics information, such as Daily Active Users (DAU), Daily Active Devices (DAD), Monthly Active Users (MAU), Monthly Active Devices (MAD) and features such as Retention, Funnels, Crash, and others.
+
+
+Crash Data
+
+We need data to count the number of users who can help airjrush improve airjrush, and to bring you a better user experience. For the purpose of the aforementioned, we will collect your universally unique identifier (“UUID”). Firebase will collect your Instance IDs. By collecting such information the third party can provide airjrush with unique product analytics. You may choose not to share this information. To do so, open Settings on your airjrush app, tap Personalization & Data and turn off the Product Analytics switch.
+
+For more information about Firebase, please click https://firebase.google.com/support/privacy/.
+
+Advertisement
+
+We may partner with an ad network third party to display advertising within the airjrush app. Our third-party partners may show you advertising based on your personal data, such as device identifiers and location information. For the purpose of the above, we, or an ad network third party, may collect your Advertising ID for advertising and user analytics purposes. If your device does not have Advertising ID, we may use other persistent identifiers. If you wish to opt out of interest-based advertising, you could open settings on your airjrush app, tap Personalization & Data, and turn off the Personalized Ads switch. Please note that you will continue to receive generic ads.
+
+Our partner ad networks includes Google-Mobile-Ads (for more information please click https://policies.google.com/privacy/)
+Information Sharing and Disclosure
+
+We ensure that third parties will not share, or disclose to other third parties (other than our service providers), your personal information in whole or in part, except for the purposes of:
+
+(i)     protecting the security of others or their property;
+
+(ii)    preventing or dealing with Internet fraud;
+
+(iii)   safeguarding the legitimate rights and interests of airjrush;
+
+(iv)   taking action in line with our purposes, as described in the “Information Provided by You” section, provided that the recipient of any such disclosure by us is also bound by this Policy and can provide adequate protection for your information; and/or
+
+(v)    complying with laws and regulations or requests by government departments or judicial authorities, which are typically designed to uphold Internet security and the rights, property, and safety of us, our users and third parties.
+
+Information Security
+
+airjrush and third parties will take reasonable measures to prevent the loss, improper use of, unauthorized access to, or disclosure of information. For example, some of our Services will use encryption techniques (such as SSL) to protect your personal information. However, you understand and accept that (in the Internet industry) even though we, and third parties, will take all possible security measures, we cannot always guarantee that your information is 100% secure. We, and third parties, do not accept liability for unintentional disclosure. You understand and accept that the system and communication network used by you to access our Services may fail due to factors beyond our control.
+
+Information Access and Control
+
+We will take all reasonable and appropriate technical measures to ensure that you can access, update, and correct your personal information or other personal information provided to us by you, when using our Services. Before you access, update, correct or remove such personal information, we may verify your identity in order to protect the security of your account. You may access your information by sending your request to app@airjrush.com.
+
+
+CROSS-BORDER DATA TRANSFERS
+
+You understand and agree that all information collected via or by airjrush may be transferred, processed, and stored anywhere in the world, including but not limited to China and the United States in the cloud, on our servers, on the servers of our affiliates, or the servers of our service providers, in order to provide the Services.
+
+Additional Information for users in the European Union
+
+If you are in the European Union, the following applies in addition to the information given above in this Privacy Policy.
+
+
+Legal Basis of Processing
+
+The legal basis for the processing of your personal data listed in section “Device Information” is the performance of a contract with you, or the taking of steps at your request prior to entering into a contract (Art. 6 para. 1 lit. b) GDPR). The provision of this information is necessary. Without such information we cannot provide you with the respective services.
+
+The legal basis for the processing of your personal data listed in section “Crash Data” is our legitimate interest in optimizing our products and services (Art. 6 para. 1 lit. f) GDPR). The provision of this data is not necessary to enter into a contract.
+
+The legal basis for the processing of your personal data listed in section “Communication and Feedback” is the performance of a contract with you or the taking of steps at your request prior to entering into a contract (Art. 6 para. 1 lit. b) GDPR). The provision of this information is necessary. Without such information we cannot provide you with the respective services.
+
+The legal basis for the processing of your personal data listed in section “Advertisement” is our legitimate interest in optimizing our products and services, and to provide you with location-based advertisements (Art. 6 para. 1 lit. f) GDPR). The provision of this data is not necessary to enter into a contract.
+
+Your rights as a Data Subject
+
+As a data subject in the European Union you have the following rights with regard to the processing of your personal data:
+
+Right of access
+
+As a data subject you have the right to obtain confirmation from us as to whether we are processing your personal data (Art. 15 para. 1 GDPR). If so, you also have the right to obtain access to the personal data and the information listed in Art. 15 para. 1 GDPR. This includes information regarding the purposes of the processing, the categories of personal data that are being processed and the recipients or categories of recipients to whom the personal data have been or will be disclosed.
+
+Right to rectification
+
+As a data subject, you have the right to rectification set out in Art. 16 GDPR, i.e. to have your inaccurate data processed by us rectification and incomplete personal data completed.
+
+Right to erasure (“right to be forgotten”)
+
+As a data subject, you have a right to obtain from us the erasure of your personal data and we are obliged to erase your personal data without undue delay when one of the reasons listed in Art. 17 para. 1 GDPR applies. This can be the case, for example, if personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed (Art. 17 para. 1lit. a) GDPR).
+
+If we have made the personal data public and are obliged to erase it, we are also obliged, taking account of available technology and the cost of implementation, to take reasonable steps, including technical measures, to inform controllers which are processing the personal data that you have requested the erasure by such controllers of any links to, or copy, or replication of those personal data (Art. 17 para. 2 GDPR).
+
+The right to erasure (“right to be forgotten”) does not apply if the processing is necessary for one of the reasons listed in Art. 17 para. 3 GDPR. This can be the case, for example, if the processing is necessary for compliance with a legal obligation or for the establishment, exercise or defense of legal claims (Art. 17 para. 3 lit. a) and e) GDPR).
+
+Right to restriction of processing
+
+As a data subject, you have a right to obtain from us the restriction of processing if one of the conditions provided in Art. 18 para. 1 GDPR applies. This can be the case, for example, if you contest the accuracy of the personal data. In such a case, the restriction of processing lasts for a period that enables us to verify the accuracy of the personal data (Art. 18 para. 1 lit. a) GDPR).
+
+Restriction means that stored personal data are marked with the goal of restricting their future processing (Art. 4 para. 3 GDPR).
+
+Right to data portability
+
+As a data subject, you have a right to receive your personal data which you have provided to us in a structured, commonly used and machine-readable format, and to transmit those data to another controller without hindrance from us if the processing is based on consent pursuant to point Art. 6 para. 1 lit. a) GDPR or Art. 9 para. 2 lit. a) GDPR or on a contract pursuant to Art. 6 para. 1 lit. b) GDPR and the processing is carried out by automated means (Art. 20 para. 1 GDPR).
+
+To verify whether our processing is based on consent pursuant to point Art. 6 para. 1 lit. a) GDPR or Art. 9 para. 2 lit. a) GDPR, or on a contract pursuant to Art. 6 para. 1 lit. b) GDPR, please refer to the section “Legal Basis of the Processing” of this Privacy Notice above.
+
+In exercising your right to data portability, you also generally have the right to have your personal data transmitted directly from us to another controller if technically feasible (Art. 20 para. 2 GDPR).
+
+Right to object
+
+As a data subject, you have a right to object under the conditions provided in Art. 21 GDPR.
+
+Right to object on grounds relating to the particular situation of the data subject
+
+As a data subject, you have the right to object, on grounds relating to your particular situation, at any time to the processing of your personal data, which is based on Art. 6 para. 1, lit. e) or f) GDPR, including profiling based on those provisions.
+
+To verify whether our processing is based on Art. 6 para. 1, lit. e) or f) GDPR, please refer to the section “Legal Basis of the Processing” of this Privacy Notice above.
+
+In the event of an objection relating to your particular situation, we will no longer process your personal data unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or for the establishment, exercise or defense of legal claims.
+
+Right to object to direct marketing
+
+Where your personal data are processed for direct marketing purposes, you have the right to object at any time to the processing of your personal data for such marketing, which includes profiling to the extent that it is related to such direct marketing.
+
+If you object to processing for direct marketing purposes, we no longer process your personal data for these purposes.
+
+Right to withdraw consent
+
+Where our processing of your personal data is based on your consent, you have the right, pursuant to Art. 7 para. 3 GDPR, to withdraw your consent at any time. The withdrawal of your consent does not affect the legitimacy of the processing that occurred based on your consent until the withdrawal.
+
+To verify whether our processing is based on consent pursuant to point Art. 6 para. 1 lit. a) GDPR or Art. 9 para. 2 lit. a) GDPR, or on a contract pursuant to Art. 6 para. 1 lit. b) GDPR, please refer to the section “Legal Basis of the Processing” of this Privacy Notice above.
+
+Right to lodge a complaint with a supervisory authority
+
+As a data subject, you have a right to lodge a complaint with a supervisory authority under the conditions provided in Art. 57 para. 1 lit. f) GDPR.
+
+Additional Information on Your Rights as a Data Subject
+
+For further information on your rights as a data subject please refer to Art. 12 to 21 GDPR, which can be accessed here: http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679.
